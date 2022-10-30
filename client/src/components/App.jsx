@@ -8,14 +8,6 @@ import Contact from "./Contact";
 
 function App() {
 
-  const [data, setData] = React.useState(null);
-
-  useEffect(() => {
-    fetch("/.well-known/acme-challenge/T3gVcA5EEItuw9udZ5Ag1bRbd4gczD8Acu3uqce6Kow")
-      .then((res) => res.json())
-      .then((data) => setData(data));
-  }, []);
-
   return (
     <div>
       <MyNavbar />

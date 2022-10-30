@@ -5,8 +5,8 @@ const app = express();
 // Have Node serve the files for our built React app
 app.use(express.static(path.resolve(__dirname, '../client/build')));
 
-app.get('/.well-known/acme-challenge/T3gVcA5EEItuw9udZ5Ag1bRbd4gczD8Acu3uqce6Kow', function (req, res) {
-    res.send('T3gVcA5EEItuw9udZ5Ag1bRbd4gczD8Acu3uqce6Kow.wX-8ddMAe0Z1HNLYjFe00cWLx8ugodORKKQxq3_xvVc')
+app.get('/.well-known/acme-challenge/X1sLpvil-MVm0_Cs0EYrWpaahn8PF4BojDJxeGxWDaw', function (req, res) {
+    res.send('X1sLpvil-MVm0_Cs0EYrWpaahn8PF4BojDJxeGxWDaw.wX-8ddMAe0Z1HNLYjFe00cWLx8ugodORKKQxq3_xvVc')
 })
 
 
