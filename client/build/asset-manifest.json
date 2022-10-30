@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.js": "/static/js/main.09d404bc.chunk.js",
+    "main.js.map": "/static/js/main.09d404bc.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.8a6e3ef5.js",
+    "runtime-main.js.map": "/static/js/runtime-main.8a6e3ef5.js.map",
+    "static/js/2.bdf59072.chunk.js": "/static/js/2.bdf59072.chunk.js",
+    "static/js/2.bdf59072.chunk.js.map": "/static/js/2.bdf59072.chunk.js.map",
+    "index.html": "/index.html",
+    "static/js/2.bdf59072.chunk.js.LICENSE.txt": "/static/js/2.bdf59072.chunk.js.LICENSE.txt",
+    "static/media/avatar.d39672dd.jpg": "/static/media/avatar.d39672dd.jpg",
+    "static/media/dailyImage.7fb71dc1.png": "/static/media/dailyImage.7fb71dc1.png",
+    "static/media/keeperpage.cd4e6d0c.png": "/static/media/keeperpage.cd4e6d0c.png",
+    "static/media/lenihanResume.eb2cd0d6.pdf": "/static/media/lenihanResume.eb2cd0d6.pdf",
+    "static/media/profileIcon.4e6185b4.png": "/static/media/profileIcon.4e6185b4.png",
+    "static/media/profilePage.c0015f65.png": "/static/media/profilePage.c0015f65.png",
+    "static/media/secretsImage.c8e1987f.png": "/static/media/secretsImage.c8e1987f.png",
+    "static/media/simonIcon.4ae31180.png": "/static/media/simonIcon.4ae31180.png",
+    "static/media/simonsayspage.1be28f0b.png": "/static/media/simonsayspage.1be28f0b.png",
+    "static/media/todolistpage.53b34acb.png": "/static/media/todolistpage.53b34acb.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8a6e3ef5.js",
+    "static/js/2.bdf59072.chunk.js",
+    "static/js/main.09d404bc.chunk.js"
+  ]
+}
