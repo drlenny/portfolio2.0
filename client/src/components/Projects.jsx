@@ -6,14 +6,14 @@ import Box from '@mui/material/Box';
 import work from "../work"
 
 import ThisWebSiteImage from '../images/profilePage.png';
-import ListItImage from '../images/todolistpage.png';
+import DogTrainingImage from '../images/lennysdogtrainingpage.png';
 import KeeperImage from '../images/keeperpage.png';
 import DailyJournalImage from '../images/dailyImage.png';
 import SecretImage from '../images/secretsImage.png';
 import SimonSaysImage from '../images/simonsayspage.png';
 
 import ThisWebSiteIcon from '../images/profileIcon.png';
-import ListItIcon from '../images/listIcon.png';
+import DogTrainingIcon from '../images/lennysdogtrainingicon.png';
 import KeeperIcon from '../images/keeperIcon.png';
 import DailyJournalIcon from '../images/dailyIcon.png';
 import SecretIcon from '../images/secretIcon.png';
@@ -21,9 +21,9 @@ import SimonIcon from '../images/simonIcon.png';
 
 function Projects() {
 
-    const images = [ThisWebSiteImage, ListItImage, KeeperImage, DailyJournalImage, SecretImage, SimonSaysImage]
+    const images = [ThisWebSiteImage, DogTrainingImage, KeeperImage, DailyJournalImage, SecretImage, SimonSaysImage]
 
-    const siteIcons = [ThisWebSiteIcon, ListItIcon, KeeperIcon, DailyJournalIcon, SecretIcon, SimonIcon]
+    const siteIcons = [ThisWebSiteIcon, DogTrainingIcon, KeeperIcon, DailyJournalIcon, SecretIcon, SimonIcon]
 
     return (
         <div id='portfolio'>

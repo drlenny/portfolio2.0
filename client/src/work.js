@@ -5,19 +5,29 @@ const work = [
         content: "I designed this website completely from scratch utilizing React, Material-ui, and other elements that I personally designed. My previous iteration of this site was only HTML and javascript using a template as a base. I decided to redesign it to better display my web development and design capabilities as well as get more experience with React. The goal when doing so was to create a site that was simple, clean, and intuitive and I am very pleased with the result.",
         image: 0,
         alt: "This Website",
-        link: "https://daniellenihan.herokuapp.com/",
+        link: "https://www.daniellenihan.com/",
         code: "https://github.com/drlenny/portfoliov2"
     },
     {
         key: 2,
-        title: "List-It",
-        content: "This is an app that allows users to create and categorize any upcoming tasks that need to be completed. Seperate lists can be made and within each list the user can add and delete items that pertain to the list's topic. An express backend is used to store the input information in a Postgres database.",
+        title: "Lenny's Dog Training",
+        content: "In addition to being a software developer, I also work as a professional dog trainer. My goal with making this site was to clearly introduce and explain my services in a way that was concise yet informative. The layout was designed to optimize the viewer's ease of use and arranged with what details clients would be looking for first in mind while providing further information accessable through the navigation. I intend to add additional pages with more relevant resources with this design goal in mind.",
         image: 1,
         color: "#c9a0e8",
         alt: "List-It App",
-        link: "https://my-todo-list-project.herokuapp.com/",
-        code: "https://github.com/drlenny/todo-list"
+        link: "https://lennysdogtraining.onrender.com/",
+        code: "https://github.com/drlenny/dog-training-website"
     },
+    // {
+    //     key: 2,
+    //     title: "List-It",
+    //     content: "This is an app that allows users to create and categorize any upcoming tasks that need to be completed. Seperate lists can be made and within each list the user can add and delete items that pertain to the list's topic. An express backend is used to store the input information in a Postgres database.",
+    //     image: 1,
+    //     color: "#c9a0e8",
+    //     alt: "List-It App",
+    //     link: "https://my-todo-list-project.herokuapp.com/",
+    //     code: "https://github.com/drlenny/todo-list"
+    // },
     {
         key: 3,
         title: "Keeper",
@@ -25,7 +35,7 @@ const work = [
         image: 2,
         color: '#f5ba13',
         alt: "Keeper App",
-        link: "https://my-react-keeper-app.herokuapp.com/",
+        link: "https://keeper-4xh1.onrender.com/",
         code: "https://github.com/drlenny/keeper-app"
     },
     // {
@@ -45,7 +55,7 @@ const work = [
         image: 4,
         color: "#e9ecef",
         alt: "Secrets App",
-        link: "https://user-secret.herokuapp.com/",
+        link: "https://secrets-7me6.onrender.com/",
         code: "https://github.com/drlenny/Authentication-Secrets"
     },
     {
@@ -55,7 +65,7 @@ const work = [
         image: 5,
         color: "#011f3f",
         alt: "Simon Says App",
-        link: "https://simon-says-app.herokuapp.com/",
+        link: "https://simonsays.onrender.com/",
         code: "https://github.com/drlenny/simon-game"
     },
 ];
