@@ -1,28 +1,21 @@
 {
   "files": {
-    "main.js": "/static/js/main.84a28979.chunk.js",
-    "main.js.map": "/static/js/main.84a28979.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.8a6e3ef5.js",
-    "runtime-main.js.map": "/static/js/runtime-main.8a6e3ef5.js.map",
-    "static/js/2.1b5db03c.chunk.js": "/static/js/2.1b5db03c.chunk.js",
-    "static/js/2.1b5db03c.chunk.js.map": "/static/js/2.1b5db03c.chunk.js.map",
+    "main.js": "/static/js/main.c84ecfd4.js",
+    "static/media/lennysdogtrainingpage.png": "/static/media/lennysdogtrainingpage.905e4abf107f1f3c2f84.png",
+    "static/media/profilePage.png": "/static/media/profilePage.c0015f65086af440cdae.png",
+    "static/media/profileIcon.png": "/static/media/profileIcon.4e6185b476a8e9d70075.png",
+    "static/media/keeperpage.png": "/static/media/keeperpage.cd4e6d0c4ca9a30e63a0.png",
+    "static/media/avatar.jpg": "/static/media/avatar.d39672dd9861bbcef759.jpg",
+    "static/media/lennysdogtrainingicon.png": "/static/media/lennysdogtrainingicon.db556cf4631a6c77df33.png",
+    "static/media/simonsayspage.png": "/static/media/simonsayspage.1be28f0b817701bc7faa.png",
+    "static/media/dailyImage.png": "/static/media/dailyImage.7fb71dc1cae04f1e7e6c.png",
+    "static/media/secretsImage.png": "/static/media/secretsImage.c8e1987f39aea9dff29d.png",
+    "static/media/lenihanResume.pdf": "/static/media/lenihanResume.fc37ce71edda1fa80ec5.pdf",
+    "static/media/simonIcon.png": "/static/media/simonIcon.4ae31180b6bf83700b2a.png",
     "index.html": "/index.html",
-    "static/js/2.1b5db03c.chunk.js.LICENSE.txt": "/static/js/2.1b5db03c.chunk.js.LICENSE.txt",
-    "static/media/avatar.d39672dd.jpg": "/static/media/avatar.d39672dd.jpg",
-    "static/media/dailyImage.7fb71dc1.png": "/static/media/dailyImage.7fb71dc1.png",
-    "static/media/keeperpage.cd4e6d0c.png": "/static/media/keeperpage.cd4e6d0c.png",
-    "static/media/lenihanResume.eb2cd0d6.pdf": "/static/media/lenihanResume.eb2cd0d6.pdf",
-    "static/media/lennysdogtrainingicon.db556cf4.png": "/static/media/lennysdogtrainingicon.db556cf4.png",
-    "static/media/lennysdogtrainingpage.905e4abf.png": "/static/media/lennysdogtrainingpage.905e4abf.png",
-    "static/media/profileIcon.4e6185b4.png": "/static/media/profileIcon.4e6185b4.png",
-    "static/media/profilePage.c0015f65.png": "/static/media/profilePage.c0015f65.png",
-    "static/media/secretsImage.c8e1987f.png": "/static/media/secretsImage.c8e1987f.png",
-    "static/media/simonIcon.4ae31180.png": "/static/media/simonIcon.4ae31180.png",
-    "static/media/simonsayspage.1be28f0b.png": "/static/media/simonsayspage.1be28f0b.png"
+    "main.c84ecfd4.js.map": "/static/js/main.c84ecfd4.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.8a6e3ef5.js",
-    "static/js/2.1b5db03c.chunk.js",
-    "static/js/main.84a28979.chunk.js"
+    "static/js/main.c84ecfd4.js"
   ]
 }
